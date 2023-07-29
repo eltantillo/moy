@@ -1,0 +1,46 @@
+@font-face {
+	font-family: 'golden';
+	src:url(/fonts/GoldenHills.ttf);	
+	font-style: bold;
+	font-weight: 100;
+}
+
+@font-face {
+	font-family: 'best';
+	src: url(/fonts/BestMoment.otf);
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: 'haviland';
+	src: url(/fonts/MrDeHaviland.ttf);
+	font-style: normal;
+	font-weight: 100;
+    text-transform: capitalize;
+}
+
+.DA {
+	font-family: 'haviland';
+	font-size: 138px;
+}
+
+.font3f {
+	font-family: 'golden';
+	font-size: 35px;
+}
+
+.font3n {
+	font-family: 'golden';
+	font-size: 25px;
+}
+
+.font3t {
+	font-family: 'golden';
+	font-size: 50px;
+}
+
+.fontnav1 {
+    font-family: 'golden';
+	font-size: 45px; 
+}
